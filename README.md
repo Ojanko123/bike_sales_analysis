@@ -61,7 +61,7 @@ At a 95% confidence level, both Order Quantity and Country show strong evidence 
 
 - Customer age distribution is approximately bell-shaped but with notable spread
 - Order quantity shows significant variability and outliers across countries
-- Profit does not scale linearly with order quantity — relationship varies by country
+- Profit does not scale linearly with order quantity, relationship varies by country
 - Neither order quantity nor country follows a normal distribution, ruling out simple linear regression for correlation analysis
 
 
