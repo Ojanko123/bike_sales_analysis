@@ -45,7 +45,7 @@ Before attempting any correlation or regression analysis, normality was formally
 - A more sensitive normality test, especially in the tails of the distribution
 - Used `scipy.stats.anderson`
 
-**KS Test** (Country — encoded numerically):
+**KS Test** (Country - encoded numerically):
 - Country variable was encoded numerically to allow statistical testing
 - Tested for normality using the same KS approach
 
