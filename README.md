@@ -26,12 +26,12 @@ Exploratory data analysis of a bike sales dataset using Python. The project comb
 
 ### Visualizations
 
-- **KDE Density Plot** — distribution of customer age across the dataset
-- **Boxplots** — spread and outliers for customer age and order quantity
-- **Histogram** — frequency distribution of order quantity (30 bins)
-- **Pie Chart** — sales volume breakdown by year
-- **Scatter Plot** — relationship between order quantity and profit, segmented by country
-- **Bar Chart** — total sales quantity per country
+- **KDE Density Plot** - distribution of customer age across the dataset
+- **Boxplots** - spread and outliers for customer age and order quantity
+- **Histogram** - frequency distribution of order quantity (30 bins)
+- **Pie Chart** - sales volume breakdown by year
+- **Scatter Plot** - relationship between order quantity and profit, segmented by country
+- **Bar Chart** - total sales quantity per country
 
 ### Statistical Hypothesis Testing
 
