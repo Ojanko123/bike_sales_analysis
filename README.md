@@ -1,5 +1,5 @@
 
-Exploratory data analysis of a bike sales dataset using Python. The project combines data visualization with formal statistical hypothesis testing to uncover patterns in customer behavior, sales distribution, and profitability — and to evaluate whether the data meets the assumptions required for linear regression.
+Exploratory data analysis of a bike sales dataset using Python. The project combines data visualization with formal statistical hypothesis testing to uncover patterns in customer behavior, sales distribution, and profitability  and to evaluate whether the data meets the assumptions required for linear regression.
 
 
 
